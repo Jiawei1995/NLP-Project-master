@@ -6,8 +6,6 @@
 * conv_seq2seq：基于convolution的seq2seq
 * transformer_seq2seq：基于transformer的seq2seq
 
-#### 数据集
-    数据是华为开源的微博440w的对话数据，在这里我删除了一部分回答很多的数据。
-    链接：https://pan.baidu.com/s/1RR5VM_zJUs7jb1Q-UIZC4w 提取码：satw 
+
 
     
